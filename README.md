@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a DevOps Engineer with a passion for technology and building scalable systems. Currently working at BSP Pacific International Bank, I focus on cloud infrastructure, automation, and continuous delivery. I'm also a software engineer in the making, working on mastering Front-End Development and Full-Stack skills.
 
-I am building a startup that will focus on developing enterprise-grade software solutions for Papua New Guinea's financial sector. My ultimate goal is to become a DevOps Architect and lead impactful projects in the tech space.
+I am building a startup that will focus on developing enterprise-grade software solutions for Papua New Guinea's public and private sector. My ultimate goal is to become a DevOps Architect and lead impactful projects in the tech space.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, JavaScript, TypeScript, Bash
